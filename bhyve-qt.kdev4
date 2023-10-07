@@ -1,0 +1,4 @@
+[Project]
+CreatedFrom=bhyve-qt.pro
+Manager=KDevQMakeManager
+Name=bhyve-qt

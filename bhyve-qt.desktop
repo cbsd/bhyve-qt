@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Bhyve-Qt
+
+GenericName=Bhyve front-end
+GenericName[ca]=Bhyve front-end
+GenericName[es]=Bhyve front-end
+
+
+Comment=A front-end written in Qt for the Bhyve emulator
+
+
+Icon=bhyve-qt
+Exec=bhyve-qt
+Terminal=false
+StartupNotify=false
+Categories=Qt;System;
+Keywords=BHYVE;emulator;
